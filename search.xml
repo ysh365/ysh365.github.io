@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>seconde article</title>
+      <link href="/2023/02/11/seconde-article/"/>
+      <url>/2023/02/11/seconde-article/</url>
+      
+        <content type="html"><![CDATA[<p>I love python</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> language </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>my first article</title>
+      <link href="/2023/02/10/my-first-article/"/>
+      <url>/2023/02/10/my-first-article/</url>
+      
+        <content type="html"><![CDATA[<p>I love java</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> language </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
